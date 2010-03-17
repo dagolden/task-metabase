@@ -1,7 +1,7 @@
 use 5.008;
 use strict;
 use warnings;
-package Task::Metabase
+package Task::Metabase;
 # ABSTRACT: Install Metabase server related modules
 
 =pkgroup Core Metabase Modules
