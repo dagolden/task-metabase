@@ -12,6 +12,14 @@ package Task::Metabase
 
 =pkg Metabase 0.005
 
+=pkgroup CPAN Testers Facts and Utilities
+
+=pkg CPAN::Testers::Report 1.999
+
+=pkg CPAN::Testers::Metabase 1.999
+
+=pkg CPAN::Testers::Common::Utils 0.001
+
 =pkgroup Support Modules
 
 Optional but improve performance
